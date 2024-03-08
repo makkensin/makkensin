@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **WEB Development Full-Stack**
 
-<img align="right" width=200px height=150px  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br>
+<img align="right" width=200px height=200px  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
