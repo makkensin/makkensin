@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jorge Gómez González
+<h1 align="center">Hi 👋, I'm JORGE.
 </h1><br>
 <h3 align="center"> I would like to apply my knowledge and skills in your company, and I am convinced that I can add value to your team of programmers. I am willing to learn and develop professionally, and I am confident that I can contribute to the success of your company.</h3>
 <br><br><br>
