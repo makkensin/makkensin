@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     alt="example" />
 </p>
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/makkensin/count.svg" /></p>
 
 
 
